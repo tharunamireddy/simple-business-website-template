@@ -23,7 +23,7 @@ class Header extends Component {
             className="navbar-brand nav-logo active"
             to="/simple-business-website-template/"
           >
-            YOUR LOGO
+            
           </Link>
           <button
             className="navbar-toggler"
